@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P Abhishek Rao</h1>
 <h3 align="center">Am a computer science student</h3>
 
-- 🔭 I’m currently working on **projects on generative AI**
+- 🔭 I’m currently working on ** Generative AI**
 
 - 🌱 I’m currently learning **Reactjs,**
 
