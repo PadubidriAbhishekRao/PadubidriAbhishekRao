@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Generative AI**
 
-- 🌱 I’m currently learning **Reactjs,**
+- 🌱 I’m currently learning **Reactjs,Golang**
 
 - 📫 How to reach me **abhisekraop@gmail.com**
 
